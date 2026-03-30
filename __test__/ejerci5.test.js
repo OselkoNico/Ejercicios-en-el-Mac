@@ -1,4 +1,4 @@
-const ordenarProductos = require('./ejerci5');
+const ordenarProductos = require('../ejerci5');
 
 test('Función de ordenar productos según su precio', () => {
     const original = [

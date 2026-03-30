@@ -1,4 +1,4 @@
-const crearSistemaReservas = require('./ejerci1')
+const crearSistemaReservas = require('../ejerci1')
 
 test('reserva correctamente si hay sitio', () => {
 

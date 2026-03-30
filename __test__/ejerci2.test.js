@@ -1,4 +1,4 @@
-const filtrarAdultos = require('./ejerci2');
+const filtrarAdultos = require('../ejerci2');
 
 test('Función para filtrar mayores de edad', ()=>{
     const usuarios = [

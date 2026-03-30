@@ -1,4 +1,4 @@
-const validarPassword = require('./ejerci4');
+const validarPassword = require('../ejerci4');
 
 test('Funcion de validacion de contraseñas', () => {
     expect(validarPassword("Hola1234")).toBe(true);

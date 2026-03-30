@@ -1,4 +1,4 @@
-const sumaSegura = require('./ejer3');
+const sumaSegura = require('../ejer3');
 
 test('Función de suma correcta', () => {
         expect(sumaSegura(2, 5)).toBe(7);

@@ -1,4 +1,4 @@
-const contarPalabras = require('./ejerci3');
+const contarPalabras = require('../ejerci3');
 
 test('Función de contar palabras', () => {
     const frase = "Hola     que hola  ";

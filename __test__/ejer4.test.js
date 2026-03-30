@@ -1,4 +1,4 @@
-const conIVA = require('./ejer4');
+const conIVA = require('../ejer4');
 
 test('Función de sumar IVA', () =>{
     expect(conIVA([10, 20, 30])).toEqual([12.1, 24.2, 36.3])
